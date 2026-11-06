@@ -1,0 +1,8 @@
+streamlit
+google-genai
+python-dotenv
+reportlab
+arabic-reshaper
+python-bidi
+python-docx
+Pillow
