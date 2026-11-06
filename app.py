@@ -42,7 +42,7 @@ from docx.oxml.ns import qn
 load_dotenv()
 
 st.set_page_config(
-    page_title="Saso | Build a Career That Stands Out",
+    page_title="Saso AI Resume Builder | Create CV & Cover Letter",
     page_icon="✨",
     layout="wide",
     initial_sidebar_state="collapsed"
@@ -836,6 +836,19 @@ st.markdown("""
 <div class="hero-title">✦ CREATE YOUR FUTURE ✦</div>
 <div class="hero-subtitle">
 Create your professional CV and cover letter with AI
+</div>
+<div class="seo-description" style="
+    max-width:850px;
+    margin:0 auto 24px;
+    padding:0 12px;
+    text-align:center;
+    color:#e8dcc2;
+    font-size:15px;
+    line-height:1.9;">
+    Saso is an AI-powered resume builder that helps you create a professional CV
+    and tailored cover letter in Arabic or English, with PDF and editable Word downloads.
+    أنشئ سيرة ذاتية احترافية وخطاب تقديم للوظائف بالذكاء الاصطناعي، باللغة العربية أو الإنجليزية،
+    وحمّل ملفاتك بصيغة PDF أو Word.
 </div>
 """, unsafe_allow_html=True)
 
